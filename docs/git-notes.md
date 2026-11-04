@@ -1,10 +1,6 @@
-\# Mis apuntes de Git
-
-
+\# Mis apuntes de Git X
 
 \## Comandos aprendidos
-
-
 
 \- git init: Inicializa un repositorio Git.
 
@@ -22,17 +18,9 @@
 
 \- git switch -c: Crea una rama y cambia a ella.
 
-
-
 \## Diferencia entre Git y GitHub
-
-
 
 Git es un software para gestionar versiones de proyectos.
 
-
-
 GitHub es una plataforma para alojar repositorios y colaborar con otras personas.
-
-
 
