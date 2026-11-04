@@ -6,19 +6,19 @@
 
 
 
-\- git init: Crea un nuevo repositorio
+\- git init: Crea un nuevo repositorio Git local.
 
-\- git status: Muestra el estatus del repositorio
+\- git status: Muestra el estatus de los archivos y cambios.
 
-\- git add: Prepara los cambios
+\- git add: Prepara los cambios en Staging Area.
 
-\- git commit: Registra los cambios en el historial
+\- git commit: Registra los cambios preparados en el historial.
 
-\- git log: Muestra el historial
+\- git log: Muestra el historial de commits.
 
-\- git branch: Muestra la rama en que se esta trabajando
+\- git branch: Muestra las ramas existentes y señala la rama actual con un asterisco.
 
-\- git switch: Cambia de rama
+\- git switch: Cambia de una rama a otra.
 
 
 
